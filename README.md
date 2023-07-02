@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rajesh007
-- 👀 I’m interested in web development projects
-- 🌱 I’m currently learning Python, Django, SQL
-- 💞️ I’m looking to collaborate on Django projects
+- 👋 Hi, I’m Rajesh Chavan 
+- 👀 I’m interested in cloud, devops
+- 🌱 I’m currently learning aws
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
